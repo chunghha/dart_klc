@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "nash.awesome-flutter-snippets",
+    "aaron-bond.better-comments",
+    "redhat.vscode-yaml",
+    "robert-brunhage.flutter-riverpod-snippets"
+  ]
+}

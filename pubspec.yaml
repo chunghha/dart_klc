@@ -1,0 +1,14 @@
+name: klc
+description: A Dart library to convert a date to Korean lunar calendar date.
+version: 0.1.0
+homepage: https://github.com/chunghha/dart_klc
+
+environment:
+  sdk: ">=2.18.3 <3.0.0"
+
+dependencies:
+  sprintf: "^7.0.0"
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
